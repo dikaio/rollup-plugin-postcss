@@ -60,7 +60,7 @@
     "postcss-load-config": "^2.1.0",
     "postcss-modules": "^2.0.0",
     "promise.series": "^0.2.0",
-    "resolve": "^1.16.1",
+    "resolve": "^1.19.0",
     "rollup-pluginutils": "^2.8.2",
     "safe-identifier": "^0.4.1",
     "style-inject": "^0.3.0"
